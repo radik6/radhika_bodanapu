@@ -1,0 +1,9 @@
+
+[200~Utility : Switch to different branches
+How to : git checkout <:branch:> or **_git checkout -b <:branch:> if you want to create and switch to a new branch.
+
+10) git stash
+Utility : Save changes that you don’t want to commit immediately.
+How to : git stash in your working directory. git stash apply if you want to bring your saved changes back.
+
+11) git merge
