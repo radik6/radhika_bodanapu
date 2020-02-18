@@ -1,0 +1,17 @@
+7) git push/git pull
+Utility : Push or Pull your changes to remote. If you have added and committed your changes and you want to push them. Or if your remote has updated and you want those latest changes.
+How to : git pull <:remote:> <:branch:> and git push <:remote:> <:branch:>
+
+8) git branch
+Utility : Lists out all the branches.
+How to : git branch or git branch -a to list all the remote branches as well.
+
+9) git checkout
+[200~Utility : Switch to different branches
+How to : git checkout <:branch:> or **_git checkout -b <:branch:> if you want to create and switch to a new branch.
+
+10) git stash
+Utility : Save changes that you don’t want to commit immediately.
+How to : git stash in your working directory. git stash apply if you want to bring your saved changes back.
+
+11) git merge
